@@ -1,16 +1,66 @@
-### Hi there 👋
+<h1 align="center"> |KGF-POWER|</h1>
 
-<!--
-**The-Kgf/The-Kgf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> The-Kgf </h2>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      A new international facebook account cracker tool for termux users
+
+</p>
+
+## <b>[~] installation</b>
+
+```
+
+$ pkg update
+
+$ pkg upgrade
+
+$ pkg install python
+
+$ pkg install python2
+
+$ pip2 install requests
+
+$ pip2 install mechanize
+
+$ pip2 install bs4
+
+$ pkg install git
+
+$ git clone https://github.com/The-Kgf/The-Kgf
+
+$ cd The-Kgf
+
+$ python2 Kgf.py
+
+```
+
+## [~] Single Command
+
+```
+
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/The-Kgf/The-Kgf.git ; cd The-Kgf ; python2 Kgf.py
+
+```
+
+</br>
+
+## <b>ðŸ“± Social Media ðŸ“±</b></br> <br>[![Github](https://img.shields.io/badge/Github-Shafqat Ali-deepgreen?style=flat-square&logo=github)](https://github.com/The-Kgf) [![Facebook](https://img.shields.io/badge/Facebook-MR-NAIMAT-blue?style=flat-square&logo=facebook)](https://www.facebook.com/alon3cyber) [![Messenger](https://img.shields.io/badge/Messenger-MR-NAIMAT-purple?style=flat-square&logo=messenger)](https://messenger.com/t/alon3cyber)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
