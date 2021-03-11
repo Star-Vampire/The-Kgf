@@ -46,7 +46,7 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 insta
 
 </br>
 
-## <b>ðŸ“± Social Media ðŸ“±</b></br> <br>[![Github](https://img.shields.io/badge/Github-Shafqat Ali-deepgreen?style=flat-square&logo=github)](https://github.com/The-Kgf) [![Facebook](https://img.shields.io/badge/Facebook-MR-NAIMAT-blue?style=flat-square&logo=facebook)](https://www.facebook.com/alon3cyber) [![Messenger](https://img.shields.io/badge/Messenger-MR-NAIMAT-purple?style=flat-square&logo=messenger)](https://messenger.com/t/alon3cyber)
+## <b>ðŸ“± Social Media ðŸ“±</b></br><br>[![Github](https://img.shields.io/badge/Github-Shafqat Ali-deepgreen?style=flat-square&logo=github)](https://github.com/The-Kgf) [![Facebook](https://img.shields.io/badge/Facebook-MR-NAIMAT-blue?style=flat-square&logo=facebook)](https://www.facebook.com/alon3cyber) [![Messenger](https://img.shields.io/badge/Messenger-MR-NAIMAT-purple?style=flat-square&logo=messenger)](https://messenger.com/t/alon3cyber)
 
 
 
